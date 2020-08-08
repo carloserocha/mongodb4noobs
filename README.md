@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/header_4noobs.svg">
+    <img src="/.github/header-4noobs.svg">
   </a>
 </p>
 
@@ -24,18 +24,19 @@
     <a href="link-para-abrir-issue">Request Feature</a>
   </p>
 </p>
-    
+
  <!-- ABOUT THE PROJECT -->
 
+
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+O propósito desse repositório, além de contribuir para o projeto 4noobs, é ensinar o básico de Mongodb para iniciantes.
 
 <!-- ROADMAP OF PROJECT -->
 
 ## ROADMAP
 
-- [Conteúdo 1](link-primeira-parte)
-- [Conteúdo 2](link-segunda-parte)
+- [Introdução](/src/1-Introducao/1-o-que-e-mongodb.md)
+- [Tabelas VS Coleções](/src/1-Introducao/2-tabelas-vs-colecoes.md)
 - [Conteúdo 3](link-terceira-parte)
   - [Sub-conteúdo](link-sub-conteudo)
   	- [Sub-conteúdo](link-sub-conteudo)
@@ -61,7 +62,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **crwlos** - _Backend Developer_ - [Twitter](https://twitter.com/crwlos)
+- **crwlos** - _Software Engineer_ - [Twitter](https://twitter.com/crwlos)
 
 #### Feito com o 💜.
 
@@ -69,6 +70,6 @@ são **extremamente apreciadas**
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/footer_4noobs.svg" width="380">
+    <img src="/.github/footer-4noobs.svg" width="380">
   </a>
 </p>
