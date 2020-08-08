@@ -9,9 +9,8 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">Mongodb para Noobs</h2>
-
   <h1 align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="Logo do MongoDB" width="120"></h1>
+    <h1 align="center">Mongodb para Noobs</h1>
   
   <p align="center">
     <br />
