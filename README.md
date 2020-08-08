@@ -11,7 +11,7 @@
 <p align="center">
   <h2 align="center">Mongodb para Noobs</h2>
 
-  <h1 align="center"><img src="../.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="Logo do MongoDB" width="120"></h1>
   
   <p align="center">
     <br />
@@ -61,6 +61,8 @@ são **extremamente apreciadas**
 ## Autores
 
 - **crwlos** - _Backend Developer_ - [Twitter](https://twitter.com/crwlos)
+
+#### Feito com o 💜.
 
 ---
 
