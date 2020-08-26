@@ -24,3 +24,5 @@ Para usar o MongoDB Compass você precisa:
 - Instalar o MongoDB Server.
 ou 
 - Um cluster do MongoDB Atlas.
+
+[Instale o MongoDB Compass »](2-instalando-compass.md)
