@@ -9,7 +9,7 @@
     
    </p>
   
-### O MongoDB Compass é uma interface gráfica que permite que você interaja com seu banco de dados MongoDB.	
+### O MongoDB Compass é uma interface gráfica que permite que você gerencie e visualize seu banco de dados MongoDB.
 #### Com ele, você pode:
 
 - Interajir com documentos, coleções.
