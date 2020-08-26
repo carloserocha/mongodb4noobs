@@ -17,3 +17,5 @@ Para fazer o download no windows entre no site oficial do mongodb e escolha a op
 
 ## 1.4 Instalando em outros sistemas
 Para instalar em outros sistemas operacionais, siga os passos de [instalação na documentação oficial](https://docs.mongodb.com/compass/current/install/) do mongodb compass ou se tiveram problemas na instalação demonstrada.
+
+[Primeiros Passos »](3-ultilizacao.md)
