@@ -38,6 +38,7 @@ O propósito desse repositório, além de contribuir para o projeto 4noobs, é e
 - [Introdução](/src/1-Introducao/1-o-que-e-mongodb.md)
 - [Tabelas VS Coleções](/src/1-Introducao/2-tabelas-vs-colecoes.md)
 - [Instalação](/src/2-Instalacao/1-instalando-localmente.md)
+- [GUI](/src/3-gui/1-introducao.md)
 - [Conteúdo 4](link-quarta-parte)
 - [Conteúdo 5](link-quinta-parte)
   - [Sub-conteúdo](link-sub-conteudo)
