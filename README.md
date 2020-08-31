@@ -61,6 +61,7 @@ são **extremamente apreciadas**
 ## Autores
 
 - **crwlos** - _Software Engineer_ - [Twitter](https://twitter.com/crwlos)
+- **Rafael Mendes** - [Twitter](https://twitter.com/rafael_mds1)
 
 #### Feito com o 💜.
 
